@@ -1,0 +1,50 @@
+h1, h2 {
+    font-family: fantasy;
+}
+
+.par1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 120px;
+    right: 300px;
+
+}
+.descricao{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#list{
+    font-family: cursive;
+}
+body{
+    background-color: plum;
+    padding: 2%;
+}
+#list1{ 
+    font-size: 22px;
+    background-color: white;
+}
+#list2{ 
+    font-size: 30px;
+}
+#list3{ 
+    font-size: 37px;
+    background-color: white;
+}
+#minhafoto{
+    border-radius: 20%;
+    float: left;
+    height: 250px;
+    padding: 10px;
+    background-color: white;
+}
+.imag{
+    height: 300px;
+    position: relative;
+}
+h1{
+    text-align: center;
+}
+.moro{
+   font-size: 18px;
+}
+
