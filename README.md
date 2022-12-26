@@ -1,5 +1,5 @@
 # NMAResnde.github.io
-Meu Portfólio
+## Meu Portfólio
 
 Este exercício teve por foco a criação do meu portfólio web adicionando seletores e CSS de layout. 
 
