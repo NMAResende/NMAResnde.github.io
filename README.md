@@ -1,7 +1,7 @@
 # NMAResnde.github.io
 ## Meu Portfólio
 
-Este exercício teve por foco a criação do meu portfólio web adicionando seletores e CSS de layout. 
+Este exercício teve por foco a criação do __meu portfólio web__ adicionando seletores e CSS de layout. 
 
 Com este exercício, pude:
 
